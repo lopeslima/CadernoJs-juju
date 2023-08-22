@@ -1,3 +1,3 @@
 # CadernoJs-juju
 
-file:///C:/Jstuto/index.html
+https://lopeslima.github.io/CadernoJs-juju/
